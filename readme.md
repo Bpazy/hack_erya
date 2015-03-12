@@ -4,8 +4,8 @@ Hack_erya
 
 使用方法
 -
-Chrome：在视频播放界面按F12打开开发者工具(Development tools)，在Console界面里，拷贝入响应的代码段，回车即可。<br>
-IE：在视频播放界面按F12打开开发者工具()Development tools)，在Console界面里，拷贝入响应的代码段，回车即可。
+Chrome：在视频播放界面按F12打开开发者工具(Development tools)，在Console界面里，拷贝入相应的代码段，回车即可。<br>
+IE：在视频播放界面按F12打开开发者工具()Development tools)，在Console界面里，拷贝入相应的代码段，回车即可。
 
 功能种类
 -
