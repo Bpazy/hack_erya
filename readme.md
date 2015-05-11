@@ -1,12 +1,12 @@
 Hack_erya
 =
-½â³ý¶ûÑÅµÄÊ§È¥½¹µãÔÝÍ££¬²»ÄÜÌø×ª¡¢¿ì½øµÄÏÞÖÆ¡£
+è§£é™¤å°”é›…çš„å¤±åŽ»ç„¦ç‚¹æš‚åœï¼Œä¸èƒ½è·³è½¬ã€å¿«è¿›çš„é™åˆ¶ã€‚
 
-Ê¹ÓÃ·½·¨
+ä½¿ç”¨æ–¹æ³•
 -
-Chrome£ºÔÚÊÓÆµ²¥·Å½çÃæ°´F12´ò¿ª¿ª·¢Õß¹¤¾ß(Development tools)£¬ÔÚConsole½çÃæÀï£¬¿½±´ÈëÏàÓ¦µÄ´úÂë¶Î£¬»Ø³µ¼´¿É¡£<br>
-IE£ºÔÚÊÓÆµ²¥·Å½çÃæ°´F12´ò¿ª¿ª·¢Õß¹¤¾ß()Development tools)£¬ÔÚConsole½çÃæÀï£¬¿½±´ÈëÏàÓ¦µÄ´úÂë¶Î£¬»Ø³µ¼´¿É¡£
+Chromeï¼šåœ¨è§†é¢‘æ’­æ”¾ç•Œé¢æŒ‰F12æ‰“å¼€å¼€å‘è€…å·¥å…·(Development tools)ï¼Œåœ¨Consoleç•Œé¢é‡Œï¼Œæ‹·è´å…¥ç›¸åº”çš„ä»£ç æ®µï¼Œå›žè½¦å³å¯ã€‚<br>
+IEï¼šåœ¨è§†é¢‘æ’­æ”¾ç•Œé¢æŒ‰F12æ‰“å¼€å¼€å‘è€…å·¥å…·()Development tools)ï¼Œåœ¨Consoleç•Œé¢é‡Œï¼Œæ‹·è´å…¥ç›¸åº”çš„ä»£ç æ®µï¼Œå›žè½¦å³å¯ã€‚
 
-¹¦ÄÜÖÖÀà
+åŠŸèƒ½ç§ç±»
 -
-pauseWhenLoseFoucs.js  :  ½â³ý²¥·ÅÆ÷ÔÚÊ§È¥½¹µãµÄÊ±ºò×Ô¶¯ÔÝÍ£¡£
+pauseWhenLoseFoucs.js  :  è§£é™¤æ’­æ”¾å™¨åœ¨å¤±åŽ»ç„¦ç‚¹çš„æ—¶å€™è‡ªåŠ¨æš‚åœã€‚
